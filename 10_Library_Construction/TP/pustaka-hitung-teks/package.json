@@ -1,0 +1,9 @@
+{
+  "name": "pustaka-hitung-teks",
+  "version": "1.0.0",
+  "description": "Pustaka untuk menghitung huruf dan kata",
+  "main": "index.js",
+  "type": "module",
+  "author": "Nama Anda",
+  "license": "ISC"
+}

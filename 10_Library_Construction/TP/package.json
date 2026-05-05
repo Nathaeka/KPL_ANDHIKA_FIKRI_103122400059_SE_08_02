@@ -1,0 +1,9 @@
+{
+  "name": "aplikasi-utama",
+  "version": "1.0.0",
+  "description": "Aplikasi utama",
+  "type": "module",
+  "dependencies": {
+    "pustaka-hitung-teks": "file:./pustaka-hitung-teks"
+  }
+}
